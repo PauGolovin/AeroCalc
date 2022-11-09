@@ -91,7 +91,7 @@ ____
 ____
 ## **User Interface**
 
-This program can be launched using the desktop application [AeroCalc.exe](AeroCalc.exe.lnk) in the root folder. 
+This program can be launched using the desktop application [AeroCalc.exe](bin/Debug/net6.0-windows/AeroCalc.exe) in the bin folder (The application only works on windows.). 
 
 ![](images/App.JPG)
 
